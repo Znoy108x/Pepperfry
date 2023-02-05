@@ -1,0 +1,60 @@
+{
+  "name": "Nike",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@headlessui/react": "^1.7.4",
+    "@iconscout/react-unicons": "^1.1.6",
+    "@material-tailwind/react": "^1.2.4",
+    "@mui/icons-material": "^5.10.3",
+    "axios": "^1.1.3",
+    "concurrently": "^7.5.0",
+    "flowbite": "^1.5.3",
+    "flowbite-react": "^0.3.4",
+    "razorpay": "^2.8.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-read-more-read-less": "^1.0.7",
+    "react-router-dom": "^6.4.1",
+    "react-scripts": "5.0.1",
+    "react-scroll-parallax": "^3.3.1",
+    "react-toastify": "^9.0.8",
+    "sass": "^1.54.9",
+    "tailwind-scrollbar-hide": "^1.1.7",
+    "tw-elements": "^1.0.0-alpha12",
+    "typed.js": "^2.0.12"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "all": "concurrently \"npm run start\" \"cd ../backend && npm run start\" \"cd ../admin && npm run start\""
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.11",
+    "postcss": "^8.4.16",
+    "tailwind-scrollbar": "^2.0.1",
+    "tailwindcss": "^3.1.8"
+  }
+}
