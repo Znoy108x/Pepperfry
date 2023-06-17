@@ -1,17 +1,25 @@
-# Hello, I am <a href="https://www.linkedin.com/in/abhay-bisht-042662177/">Abhay Bisht </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> , I made this project MERN Furniture Site
-
-## Teck Stack 🔥
+# Full stack e-commerce application.
+ Teck Stack Used🔥
 - React
 - Node
 - Tailwind
 - MongoDb
 
-## How To Run ...🏃...
+Env File
+- Add a env file with following variables 
+   ```javaascript
+      CUSTOMER_JWT_SECRET = JWT_SECRET_FOR_CUSTOMERS
+      ADMIN_JWT_SECRET = JWT_SECRET_FOR_ADMIN
+      RAZOR_API_KEY = RAZOR_PYA_API_KEY
+      RAZOR_SECRET_KEY = RAZOR_PAY_SECRET_KEY
+   ```
+
+ How To Run ...🏃...
 - Download and Unzip The File / Clone the repo
 - follow installation guide mentioned below
 
-## Code For Installing Packages 📦
-```python
+ Code For Installing Packages 📦
+```javascript
       #For Frontend
       cd frontend
       npm i
@@ -27,7 +35,7 @@
       npm i
       npm start
 ```
-
+#
 <pre>
        /ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ\
       |           See You Soon .. 🤝            |
@@ -37,6 +45,6 @@
               (oo)\_______
               (__)\ 0   0 )\  *
                   ||--0-w | \/                                                                       
-                  ||     ||                                                                    Abhay Bisht ^.^
-ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
+                  ||     ||                                                                 
+ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
 </pre>
