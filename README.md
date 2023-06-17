@@ -5,8 +5,8 @@
 - Tailwind
 - MongoDb
 
-Env File
-- Add a env file with following variables 
+=> Env File
+   - Add a env file with following variables 
    ```javaascript
       CUSTOMER_JWT_SECRET = JWT_SECRET_FOR_CUSTOMERS
       ADMIN_JWT_SECRET = JWT_SECRET_FOR_ADMIN
@@ -14,11 +14,11 @@ Env File
       RAZOR_SECRET_KEY = RAZOR_PAY_SECRET_KEY
    ```
 
- How To Run ...🏃...
+=> How To Run ...🏃...
 - Download and Unzip The File / Clone the repo
 - follow installation guide mentioned below
 
- Code For Installing Packages 📦
+=> Code For Installing Packages 📦
 ```javascript
       #For Frontend
       cd frontend
@@ -35,7 +35,14 @@ Env File
       npm i
       npm start
 ```
-#
+=> Application Demo  
+<div align="center">
+ 
+
+https://github.com/Znoy108x/MERN-FurnitureSite/assets/75539409/998b1a4d-677d-426b-8043-9f271307825c
+
+
+</div>
 <pre>
        /ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ\
       |           See You Soon .. 🤝            |
