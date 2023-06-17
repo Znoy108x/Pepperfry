@@ -1,3 +1,6 @@
+/*
+This is the registeration page and it's used for creating a new admin !
+*/
 import React , {useState , useEffect , useRef} from 'react'
 import PersonOutlineRoundedIcon from '@mui/icons-material/PersonOutlineRounded';
 import VisibilityOutlinedIcon from '@mui/icons-material/VisibilityOutlined';

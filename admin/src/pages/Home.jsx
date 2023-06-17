@@ -1,3 +1,6 @@
+/*
+This is the dashboard for showing total number of products , categories & items present in the data base, along with the number of users , top performers and top selling products !
+*/
 import React, { useState } from 'react'
 import Sidebar from "../components/Sidebar"
 import CategoryOutlinedIcon from '@mui/icons-material/CategoryOutlined';

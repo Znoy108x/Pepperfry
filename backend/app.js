@@ -10,7 +10,7 @@ app.use(cookies())
 app.use(express.json())
 app.use(cors({
     credentials: true,
-    origin: [ process.env.ADMIN_PORT , process.env.BACKEND_PORT ]
+    origin: [ process.env.ADMIN_PORT , process.env.CLIENT_PORT ]
 }))
 app.use("/Customer/Images" , express.static(__dirname +"/assets/images/Customers"))
 app.use("/Items/Images" , express.static(__dirname +"/assets/images/Items"))

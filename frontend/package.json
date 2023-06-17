@@ -1,12 +1,12 @@
 {
-  "name": "Nike",
+  "name": "pepperfry",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
     "@headlessui/react": "^1.7.4",
-    "@iconscout/react-unicons": "^1.1.6",
+    "@iconscout/react-unicons": "^2.0.2",
     "@material-tailwind/react": "^1.2.4",
     "@mui/icons-material": "^5.10.3",
     "axios": "^1.1.3",

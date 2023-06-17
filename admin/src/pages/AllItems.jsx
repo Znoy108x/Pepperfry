@@ -1,3 +1,6 @@
+/*
+This page is used to fetch all the items from the data base and display them on the table and adding  edit , delete operations on them!
+*/
 import React, { Fragment, useState, useEffect, useContext, useRef } from 'react'
 import Sidebar from "../components/Sidebar"
 import axios from "axios"

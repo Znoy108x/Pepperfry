@@ -1,3 +1,7 @@
+/*
+This is the orders page for the admin panel. It is used to fetch all the orders from the database and display them on the table !
+*/
+
 import React, { Fragment, useState, useEffect, useContext } from 'react'
 import Sidebar from "../components/Sidebar"
 import axios from "axios"

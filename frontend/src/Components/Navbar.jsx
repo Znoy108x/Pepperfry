@@ -2,14 +2,18 @@ import React , {useEffect , useState} from 'react'
 import logo from "../assets/logo.jpg"
 import axios from "axios"
 import {useNavigate} from "react-router-dom"
+
+
 import { UilShoppingCart } from '@iconscout/react-unicons'
 import { UilUser } from '@iconscout/react-unicons'
 import { UilHeart } from '@iconscout/react-unicons'
+import { UilTimes } from '@iconscout/react-unicons'
+
+
 import { Dialog, Transition } from '@headlessui/react'
 import { Fragment } from 'react'
 import loginPage from "../assets/loginPage.jpg"
 import registerImage from "../assets/registerImage.webp"
-import { UilTimes } from '@iconscout/react-unicons'
 import {toast} from "react-toastify"
 
 const Navbar = () => {

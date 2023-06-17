@@ -1,3 +1,6 @@
+/*
+This page is used to fetch all the products from the data base and display them on the table and adding  edit , delete operations on them!
+*/
 import React, { Fragment, useState, useEffect, useContext } from 'react'
 import Sidebar from "../components/Sidebar"
 import axios from "axios"

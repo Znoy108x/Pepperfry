@@ -1,3 +1,6 @@
+/*
+This is the login page for the admin dashboard !
+*/
 import React , {useState , useContext} from 'react'
 import PersonOutlineRoundedIcon from '@mui/icons-material/PersonOutlineRounded';
 import VisibilityOutlinedIcon from '@mui/icons-material/VisibilityOutlined';
