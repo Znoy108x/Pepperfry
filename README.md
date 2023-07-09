@@ -1,13 +1,14 @@
 # Full stack e-commerce application.
- Teck Stack Used🔥
+ 
+=> Teck Stack Used🔥
 - React
 - Node
 - Tailwind
-- MongoDb
+- MongoDB
 
 => Env File
-   - Add a env file with following variables 
-   ```javaascript
+   - Add an env file with the following variables 
+   ```python
       CUSTOMER_JWT_SECRET = JWT_SECRET_FOR_CUSTOMERS
       ADMIN_JWT_SECRET = JWT_SECRET_FOR_ADMIN
       RAZOR_API_KEY = RAZOR_PYA_API_KEY
@@ -19,7 +20,7 @@
 
 => How To Run ...🏃...
 - Download and Unzip The File / Clone the repo
-- follow installation guide mentioned below
+- follow the installation guide mentioned below
 
 => Code For Installing Packages 📦
 ```javascript
